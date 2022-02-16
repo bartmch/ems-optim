@@ -1,0 +1,9 @@
+## config yaml
+
+database:
+  test: 'test'
+
+weather:
+  table: 'weather.current_weather'
+  tcol: 'ts'
+  locationKey: 'test'
